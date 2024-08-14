@@ -102,7 +102,7 @@ In the next lesson, let's try adding some more widgets and further customize the
 
    ![final_output](https://github.com/user-attachments/assets/9ebcad69-8aa8-461c-9a6d-b736e1d178a5)
    
-   In the next section, we will be publishing our application and sharing it with the world.
+In the next section, we will be publishing our application and sharing it with the world.
 
 # Publishing your application
 1. Great job creating your application! With PartyRock, you can take it even further by publishing your app for others to enjoy and use!
@@ -113,6 +113,31 @@ In the next lesson, let's try adding some more widgets and further customize the
 3. Anyone with this link can see, use or remix your application.
 
 Here is my Daily Task Scheduler application : https://partyrock.aws/u/vantaee/vpWvjhS_c/NightSched
+
+# Importance of a detailed prompt
+Prompt engineering is one of the important aspects when it comes to using PartyRock. We need to keep our prompts detailed and clear to get the maximum results as per our requirement.
+
+In our process, we initially developed a daily task scheduler using a basic prompt, which provided us with an app featuring task inputs, a scheduler, and a chatbot for optimization. We then made several modifications to improve the application. However, when we use a more detailed and precise prompt, we arrive at the same final output directly, without needing further adjustments. This experience highlights the value of prompt engineering: by crafting a well-defined prompt from the start, you can achieve the desired result more efficiently, saving time and effort on subsequent modifications.
+
+# Conclusion
+Congratulations on completing your project with the help of AI. Through this project, you've gained first-hand experience in using PartyRock to create a 'Daily Task Scheduler Application'.
+
+# Clean-up
+Delete your application by navigating to ‘My Apps’ section and click on the 'Delete' option to delete your application.
+
+![deleteApp](https://github.com/user-attachments/assets/79d4a96f-8437-4ab4-b05d-fdd95a25f28a)
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
