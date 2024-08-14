@@ -19,6 +19,6 @@
    from PIL import Image
    from io import BytesIO
    ```
- 6. akjhsuish  
+   
    
 
