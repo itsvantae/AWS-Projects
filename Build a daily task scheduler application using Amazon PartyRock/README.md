@@ -53,7 +53,6 @@ In the next step, we'll begin building our Application by modifying the existing
 In the next section, let's try modifying the existing components to make them more specific.
 
 # Modify existing widgets
-
 1. You can resize the blocks present by clicking and dragging the bottom right corner of the block for organizing them.
 2. You can edit your widget by clicking on the Edit option in the top right corner.
 
@@ -71,8 +70,78 @@ In the next section, let's try modifying the existing components to make them mo
    ![Jurassic 2 ultra](https://github.com/user-attachments/assets/47ec4022-2b58-4f97-bf8b-916e9de822ae)
 
 Both models provided outputs based on different aspects: one detailing the entire day’s timeline, including specific activities and times, while the other focused on the time required for each activity.
+
 4. The ‘prompt’ section from Edit Schedule tab is used to provide prompt to the model on which the output is generated. We can reference a widget using 
    @widget_name in the prompt.
+   
+In the next lesson, let's try adding some more widgets and further customize the application.
+
+# Adding new widgets
+1. Let’s try to add a time widget that takes the approximate time required for each task.
+2. Click on ‘Add Widget’ on the top left of your screen to add a widget. Choose an user input widget.
+3. You can change the name and placeholder of your widget.
+
+   ![TimeWidget](https://github.com/user-attachments/assets/51bc0407-52d0-44a5-b5db-70479a28d41a)
+
+4. Now let’s give this widget as an input for preparation of schedule. We can change the prompt to enter the time required for each task.
+
+   ![editedSchedule](https://github.com/user-attachments/assets/9a69c3a8-3a0d-4030-a7ef-82185e2d5846)
+
+5. Click on Save and check your new schedule.
+
+   ![updatedApp](https://github.com/user-attachments/assets/b580bad5-a168-4c15-beef-ba0b9cb479f4)
+
+6. Let’s also add a widget for song recommendations to uplift your mood and an image generator that complements the song to help kickstart your day.
+
+   ![newWidget](https://github.com/user-attachments/assets/26d7bd01-9d5c-425b-b3a3-d35220ecc0bf)
+
+   You can also choose the your image style preference from the provided Style presets.
+
+7. Feel free to get creative and customize the widgets however you like. Try adding unique features or making adjustments to enhance your experience and have fun 
+   with the process! Here's the final output
+
+   ![final_output](https://github.com/user-attachments/assets/9ebcad69-8aa8-461c-9a6d-b736e1d178a5)
+   
+   In the next section, we will be publishing our application and sharing it with the world.
+
+# Publishing your application
+1. Great job creating your application! With PartyRock, you can take it even further by publishing your app for others to enjoy and use!
+2. Click on ‘Make public and share button’ present on the top right corner of the website.
+
+   ![public](https://github.com/user-attachments/assets/bc680027-06a6-451e-968d-e0d36e93e22b)
+
+3. Anyone with this link can see, use or remix your application.
+
+Here is my Daily Task Scheduler application : https://partyrock.aws/u/vantaee/vpWvjhS_c/NightSched
+
+
+
+
+
+
+
+
+
+
+
+
+   
+
+
+
+
+
+
+
+
+   
+
+
+   
+
+
+
+
 
 
 
