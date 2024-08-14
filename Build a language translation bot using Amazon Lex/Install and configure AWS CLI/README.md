@@ -13,5 +13,15 @@ The AWS CLI is used to interact with various AWS services from the command line.
 
    #For Linux (using package manager):
    sudo apt-get install awscli
+   ```
+   
+   To check if the AWS CLI (Command Line Interface) was installed successfully on your system, you can run the following command in your terminal or command prompt:
+    ```sh
+    aws --version
+    ```
+
+
+
+
 
 
