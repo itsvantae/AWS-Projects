@@ -7,4 +7,23 @@ PartyRock is designed to empower builders of all levels by providing a simple an
 
 Building and experimenting with PartyRock not only gives you hands-on experience with AI but also helps you understand how to leverage its capabilities effectively. I've been exploring PartyRock recently and found it incredibly fun to use, and I'm excited for you to experience it too while building this project.
 
+# Steps to be performed: 
+we'll be going through the following steps.
+
+1. Generating the daily task scheduler application
+2. Changes in existing widgets
+3. Adding new widgets
+4. Publishing your app
+   
+# Services Used 🛠
+AWS PartyRock: A user-friendly platform from AWS that lets you create AI-powered apps easily, without any coding skills. It’s designed to help you build and experiment with applications using generative AI in a straightforward and enjoyable way.
+
+# How to Get Started
+1. Visit the website : https://partyrock.aws/
+
+
+
+
+
+
 
