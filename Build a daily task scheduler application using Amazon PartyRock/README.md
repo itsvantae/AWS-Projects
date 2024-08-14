@@ -52,6 +52,29 @@ In the next step, we'll begin building our Application by modifying the existing
 
 In the next section, let's try modifying the existing components to make them more specific.
 
+# Modify existing widgets
+
+1. You can resize the blocks present by clicking and dragging the bottom right corner of the block for organizing them.
+2. You can edit your widget by clicking on the Edit option in the top right corner.
+
+   ![editwidget](https://github.com/user-attachments/assets/0be98ab0-aabc-41e0-8fba-e5397fcd7a5f)
+
+3. In the Edit section of the Schedule widget, you have several models available. You can select one of these models to generate your outputs, depending on the 
+   desired level of output quality. Let's take a look at a comparison:
+
+   ## Claude 3 Sonnet
+   
+   ![claude 3 sonnet](https://github.com/user-attachments/assets/be0fa8c5-651c-487a-b241-457042ee85e0)
+
+   ## Jurassic-2 Ultra
+
+   ![Jurassic 2 ultra](https://github.com/user-attachments/assets/47ec4022-2b58-4f97-bf8b-916e9de822ae)
+
+
+   
+
+
+
 
 
 
