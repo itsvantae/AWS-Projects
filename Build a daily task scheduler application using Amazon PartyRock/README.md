@@ -20,7 +20,12 @@ AWS PartyRock: A user-friendly platform from AWS that lets you create AI-powered
 
 # How to Get Started
 1. Visit the website : https://partyrock.aws/
-2. ![partyrock_webpage](https://github.com/user-attachments/assets/61049634-33b4-4841-b761-62278bb0f26b)
+
+ ![partyrock_webpage](https://github.com/user-attachments/assets/61049634-33b4-4841-b761-62278bb0f26b)
+
+ 2. Create your first application by clicking on ‘Build your own app’.
+ 3. Describe what you would like the app to do. Let’s go for something fun here!
+
 
 
 
