@@ -20,6 +20,12 @@ We'll be going through the following steps to complete our project :
 * AWS CLI: Interacting with AWS services through command line interface(CLI).
 
 # Architectural Diagram
+  ![github](https://github.com/user-attachments/assets/48121fdd-3728-42a9-9369-058177dfc836)
+
+# Final Result
+  ![output](https://github.com/user-attachments/assets/489c0be8-f11f-49f7-a2a0-dbcd211c2259)
+
+  
 
 
 
