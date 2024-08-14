@@ -70,6 +70,19 @@ In the next section, let's try modifying the existing components to make them mo
 
    ![Jurassic 2 ultra](https://github.com/user-attachments/assets/47ec4022-2b58-4f97-bf8b-916e9de822ae)
 
+Both models provided outputs based on different aspects: one detailing the entire day’s timeline, including specific activities and times, while the other focused on the time required for each activity.
+4. The ‘prompt’ section from Edit Schedule tab is used to provide prompt to the model on which the output is generated. We can reference a widget using 
+   @widget_name in the prompt.
+
+
+
+
+
+
+
+
+   
+
 
    
 
