@@ -67,8 +67,8 @@ The AWS CLI is used to interact with various AWS services from the command line.
     Default region name [us-east-1]: us-east-1
     Default output format [None]: None
     ```
-   We’ve configured our AWS CLI. Next, we’ll move to [Import Libraries](../Import%20Libraries/README.md) write Python code to extract images from the S3 bucket and apply the detect_labels operation from Amazon Rekognition 
-   to generate labels along with their confidence scores.
+   We’ve configured our AWS CLI. Next, we’ll move to [Import Libraries](../Import%20Libraries/README.md) where we will import the necessary libraries required for 
+   execution.
 
 
 
