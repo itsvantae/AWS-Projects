@@ -26,7 +26,8 @@
 4. We’ll use these images for labeling, so try to upload images with multiple objects to test the model’s accuracy in identifying various labels. For example, you 
    could use a photo of a busy city street.
 
-Let’s move forward to the next section, where we will install and configure the AWS CLI.
+Let’s move forward to the next section, [Install and configure AWS CLI](../Install%20and%20configure%20AWS%20CLI/README.md)
+
 
 
    
