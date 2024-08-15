@@ -14,9 +14,9 @@ Below is the final output generated for the first object:
    ![11](https://github.com/user-attachments/assets/3cefb920-4eac-46cd-a4da-543889c56dd0)
 
 Below is the final output generated for the second object:
-
+`
     ![2ndout](https://github.com/user-attachments/assets/0df79051-4f85-434b-8b61-345f33ce9d05)
-
+``
     ![Screenshot 2024-05-20 130716](https://github.com/user-attachments/assets/64d4b792-c310-471d-9724-65d72b69366c)
 
 
