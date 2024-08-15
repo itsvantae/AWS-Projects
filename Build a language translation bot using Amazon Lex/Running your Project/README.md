@@ -19,7 +19,7 @@ Below is the final output generated for the second object:
 
  ![2nd](https://github.com/user-attachments/assets/63c911b0-09d7-481d-9459-8d949b3fdb88)
 
-Let's head over to [Clean-up](../Clean%20-up/README.md) to ensure you're not incurring any unnecessary charges and to take full advantage of AWS's cost-saving benefits.
+
 
 
 
