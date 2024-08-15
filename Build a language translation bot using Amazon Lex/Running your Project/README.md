@@ -15,7 +15,7 @@ Below is the final output generated for the first object:
 
 Below is the final output generated for the second object:
 
-   ` ![2ndout](https://github.com/user-attachments/assets/68939b34-9e5c-40d8-ba0e-f31b1c529875)
+ ![2ndout](https://github.com/user-attachments/assets/68939b34-9e5c-40d8-ba0e-f31b1c529875)
 
 
 
