@@ -17,7 +17,8 @@ Below is the final output generated for the second object:
 
  ![2ndout](https://github.com/user-attachments/assets/68939b34-9e5c-40d8-ba0e-f31b1c529875)
 
- ![Screenshot 2024-05-20 130716](https://github.com/user-attachments/assets/0207f017-ed1e-4c27-b22c-7e858c4ee8c3)
+ ![2nd](https://github.com/user-attachments/assets/63c911b0-09d7-481d-9459-8d949b3fdb88)
+
 
 
 
