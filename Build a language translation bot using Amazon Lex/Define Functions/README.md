@@ -132,7 +132,7 @@ def main():
 if __name__ == "__main__":
     main()
 ```
-let's head over to [Running your Project](../Running%20your%20Project/README.md) to see how our final output has turned out.
+Let's head over to [Running your Project](../Running%20your%20Project/README.md) to see how our final output has turned out.
 
 
 
