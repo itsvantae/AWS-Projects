@@ -66,4 +66,11 @@ def main():
 if __name__ == "__main__":
     main()
 ```
+# Final Code
+After performing all the previous steps, your final code should look like this: 
+
+Note: Remember to change your ‘image_file_name’ and ‘bucket_name’ to your actual configured naming.
+
+
+
 
