@@ -4,5 +4,15 @@
    ```sh
     python name_of_python_file.py
    ```
+2. You will get an output with the number of detected labels and their confidence levels and a pop-up screen displaying the image that was uploaded on your S3 bucket 
+   with the bounding boxes present on the generated labels.
+
+   Here's my final output :
+
+   ![1stout](https://github.com/user-attachments/assets/d99f7f92-8cc8-4c8f-9daf-c59af341fa63)
+   ![11](https://github.com/user-attachments/assets/3cefb920-4eac-46cd-a4da-543889c56dd0)
+
+
+     
 
 
