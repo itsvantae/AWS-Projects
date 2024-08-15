@@ -53,6 +53,7 @@ Now, let's define a function called `detect_labels`. This function will take a p
 
 Next, let's write a main function to test our `detect_labels` function. We'll specify a sample photo and bucket name, then call the `detect_labels` function 
 using these parameters.
+
 (Remember to change your ‘image_file_name’ and ‘bucket_name’ to your actual configured naming.)
 
 ```sh
