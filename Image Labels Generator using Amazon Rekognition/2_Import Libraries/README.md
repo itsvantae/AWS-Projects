@@ -19,7 +19,7 @@
    from PIL import Image
    from io import BytesIO
    ```
-   Let's move to [Define Functions](../Define%20Functions/README.md) where we will write the python code for extracting pictures from S3 bucket and applying 
+   Let's move to [Define Functions](https://github.com/itsvantae/AWS-Projects/tree/main/Image%20Labels%20Generator%20using%20Amazon%20Rekognition/3_Define%20Functions) where we will write the python code for extracting pictures from S3 bucket and applying 
    detect_labels operation from Rekognition to generate the labels with their confidence score. 
 
 
