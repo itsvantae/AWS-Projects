@@ -67,7 +67,7 @@ The AWS CLI is used to interact with various AWS services from the command line.
     Default region name [us-east-1]: us-east-1
     Default output format [None]: None
     ```
-   We’ve configured our AWS CLI. Next, we’ll move to [Import Libraries](../Import%20Libraries/README.md) where we will import the necessary libraries required for 
+   We’ve configured our AWS CLI. Next, we’ll move to [2_Import Libraries](https://github.com/itsvantae/AWS-Projects/tree/main/Image%20Labels%20Generator%20using%20Amazon%20Rekognition/2_Import%20Libraries) where we will import the necessary libraries required for 
    execution.
 
 
