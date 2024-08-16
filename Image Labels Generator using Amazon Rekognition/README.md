@@ -1,4 +1,4 @@
-# Build a language translation bot using Amazon Lex 
+# Build an image labels generator using Amazon Rekognition
 
 # Overview of Project ☁️
 In this project, we’ll be developing an image labels generator using Amazon Rekognition. It’s going to be an exciting challenge! Once completed, your application will have the ability to recognize and label images automatically. For example, if you upload a photo of a bag, Amazon Rekognition will detect and label the image as a bag.
