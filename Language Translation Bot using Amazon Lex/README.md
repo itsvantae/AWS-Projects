@@ -30,7 +30,8 @@ This it the architectural diagram for the project:
 # Final Result
 This is what your project will look like, once built:
 
-![4t4](https://github.com/user-attachments/assets/35e6f4ae-a651-4d4d-bfdc-461b5eca598f)
+![4t4](https://github.com/user-attachments/assets/dca17096-d1d1-43fe-af66-4b876b58e4d2)
+
 
 
 
