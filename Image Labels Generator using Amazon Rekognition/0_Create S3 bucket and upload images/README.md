@@ -26,7 +26,7 @@
 4. We’ll use these images for labeling, so try to upload images with multiple objects to test the model’s accuracy in identifying various labels. For example, you 
    could use a photo of a busy city street.
 
-Let’s move forward to the next section, [Install and configure AWS CLI](./Image%20Labels%20Generator%20using%20Amazon%20Rekognition/1_Install%20and%20configure%20AWS%20CLI/README.md)
+Let’s move forward to the next section, 1_[Install and configure AWS CLI](./1_Install%20and%20configure%20AWS%20CLI/README.md)
 
 
 
