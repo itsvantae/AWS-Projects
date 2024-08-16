@@ -1,4 +1,4 @@
-# Build an image labels generator using Amazon Rekognition
+# Develop a text narrator using Amazon Polly
 
 # Overview of Project ☁️
 
