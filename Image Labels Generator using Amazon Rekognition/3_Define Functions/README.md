@@ -132,7 +132,7 @@ def main():
 if __name__ == "__main__":
     main()
 ```
-Let's head over to [4_Running your Project]([../Running%20your%20Project/README.md](https://github.com/itsvantae/AWS-Projects/tree/main/Image%20Labels%20Generator%20using%20Amazon%20Rekognition/4_Running%20your%20Project)) to see how our final output has turned out.
+Let's head over to [4_Running your Project](https://github.com/itsvantae/AWS-Projects/tree/main/Image%20Labels%20Generator%20using%20Amazon%20Rekognition/4_Running%20your%20Project) to see how our final output has turned out.
 
 
 
