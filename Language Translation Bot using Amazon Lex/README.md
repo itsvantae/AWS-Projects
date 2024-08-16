@@ -17,10 +17,23 @@ We'll be going through the following steps to complete our project:
 7. Test the chatbot
 
 # Services Used 🛠
-Amazon Lex: Build the chatbot and define conversation flow.
-AWS Lambda: Get the book recommendation using a third party API.
-AWS IAM: Ensures secure access by managing user permissions.
-Amazon Translate: Used for translation of the sentence according to the input language specified.
+* Amazon Lex: Build the chatbot and define conversation flow.
+* AWS Lambda: Get the book recommendation using a third party API.
+* AWS IAM: Ensures secure access by managing user permissions.
+* Amazon Translate: Used for translation of the sentence according to the input language specified.
+
+# Architectural Diagram
+This it the architectural diagram for the project:
+
+![Screenshot 2024-08-16 202052](https://github.com/user-attachments/assets/9a3e2f65-94a8-4030-90a0-8e8a294b200f)
+
+# Final Result
+This is what your project will look like, once built:
+
+![4t4](https://github.com/user-attachments/assets/35e6f4ae-a651-4d4d-bfdc-461b5eca598f)
+
+
+
 
 
 
