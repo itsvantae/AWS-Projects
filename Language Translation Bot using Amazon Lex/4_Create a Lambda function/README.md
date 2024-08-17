@@ -1,6 +1,6 @@
 # Creating a Lambda function
 1. From your AWS management console, search for Lambda from your search bar.
-2. Click on Create Function. Give the function a suitable name and choose the runtime as Python 3.12.
+2. Click on Create Function. Give the function a suitable name and choose the runtime as `Python 3.12`.
 3. Choose the previously created role by toggling the default execution role option. Keep the rest of the values as default and ‘Create Function’.
 4. Let us first look at the Lambda code and we will understand the code below:
 
@@ -155,6 +155,37 @@ f) Prepare Response:
 }
 ```
    After translation, the code constructs a response for the chatbot with the translated text.
+
+g) Handle Errors:
+   ```
+   except Exception as error:
+    error_message = "Lambda execution error: " + str(error)
+    print(error_message)
+    lex_error_response = {
+        "sessionState": {
+            "dialogAction": {
+                "type": "Close"
+            },
+            "intent": {
+                "name": "TranslateIntent",
+                "state": "Fulfilled"
+            }
+        },
+        "messages": [
+            {
+                "contentType": "PlainText",
+                "content": error_message
+            }
+        ]
+    }
+    return lex_error_response
+```
+
+   This part catches any errors that occur during the process and sends an appropriate error message back to the chatbot.
+
+5. Click on ‘Deploy’ to deploy the Lambda function.
+
+
 
 
 
