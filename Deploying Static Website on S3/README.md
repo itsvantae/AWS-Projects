@@ -17,6 +17,21 @@ We'll be going through the following steps to complete our project:
 7. Update the website.
 8. View object versions in the Amazon S3 console.
 
+# Services Used 🛠 
+* Amazon S3: Stores and delivers your website files. Once uploaded and configured for static website hosting, S3 handles all storage, retrieval, and delivery of 
+  your content directly to users over the internet.
+
+# Architectural Diagram
+This is the architectural diagram for the project
+
+
+
+
+
+
+
+
+
 
 
 
