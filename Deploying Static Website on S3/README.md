@@ -1,6 +1,10 @@
 # Configuring a static website on Amazon S3 
 
-# 
-Static websites can contain HTML pages, images, style sheets, and all files that are needed to render a website. Static websites do not use server-side scripting or a database. However, they may contain client-side scripts that run in a user's web browser. 
+# Overview of Project ☁️
+This project focuses on hosting a static website using Amazon S3. Static websites include HTML pages, images, style sheets, and other files necessary for rendering a website. Unlike dynamic websites, static websites do not rely on server-side scripting or databases, though they may use client-side scripts that execute in the user’s web browser.
 
-You can host a static website on Amazon S3 by uploading the content and making it readable by users. No servers are needed, and you can use Amazon S3 to store and retrieve any amount of data at any time from anywhere on the web.
+With Amazon S3, you can easily host a static website by uploading your site’s content and configuring it to be accessible to users. This approach eliminates the need for server management, leveraging S3 to store and serve data reliably from anywhere on the web, at any time.
+
+# Steps to be performed
+We'll be going through the following steps to complete our project:
+
