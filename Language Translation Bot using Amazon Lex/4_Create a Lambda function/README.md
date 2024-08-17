@@ -1,6 +1,11 @@
 # Creating a Lambda function
 1. From your AWS management console, search for Lambda from your search bar.
 2. Click on Create Function. Give the function a suitable name and choose the runtime as `Python 3.12`.
+
+   ![4p](https://github.com/user-attachments/assets/b9ffc5aa-d8a0-45a6-853c-e61c9cd36aa1)
+
+   ![4q](https://github.com/user-attachments/assets/3e39ee84-e30a-4148-b6d6-e74f2d6a06d2)
+
 3. Choose the previously created role by toggling the default execution role option. Keep the rest of the values as default and ‘Create Function’.
 4. Let us first look at the Lambda code and we will understand the code below:
 
