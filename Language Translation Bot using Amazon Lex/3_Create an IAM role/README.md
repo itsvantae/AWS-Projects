@@ -6,8 +6,8 @@
    ![4n](https://github.com/user-attachments/assets/bfb71e0f-7c7f-4847-83f1-6a848ce654ef)
 
 4. Attach the following policies to the role :
-   a. TranslateFullAccess
-   b. AWSLambdaBasicExecutionRole
+   * TranslateFullAccess
+   * AWSLambdaBasicExecutionRole
 5. Click on Next. Enter a suitable name and description for the role and Create Role.
 
    ![4o](https://github.com/user-attachments/assets/2d9cdfe2-5643-4f40-8065-4d0730187b6c)
