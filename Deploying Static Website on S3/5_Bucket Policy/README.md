@@ -6,7 +6,7 @@ You want to protect your website files and make sure that no one can delete them
 3. Copy the following policy text. In the Policy text editor, replace the existing policy text with this text:
 
 ```
-   {
+{
   "Version": "2012-10-17",
   "Id": "MyBucketPolicy",
   "Statement": [
