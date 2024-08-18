@@ -24,6 +24,9 @@ We'll be going through the following steps to complete our project:
 # Architectural Diagram
 This is the architectural diagram for the project
 
+![Screenshot 2024-08-18 145211](https://github.com/user-attachments/assets/da1b5c91-0aff-4e13-bbda-61f4592dd488)
+
+
 
 
 
