@@ -35,10 +35,28 @@ You want to protect your website files and make sure that no one can delete them
    Your updated code should look similar to the following:
    
 ```
-"arn:aws:s3:::website-1234/index.html",
-"arn:aws:s3:::website-1234/script.js",
-"arn:aws:s3:::website-1234/style.css"
+"arn:aws:s3:::website-112/index.html",
+"arn:aws:s3:::website-112/script.js",
+"arn:aws:s3:::website-112/style.css"
 ```
+
+   Note: Your bucket name will be different. Be sure to use the name of the bucket that you created.
+
+5. Choose Save changes
+6. Return to the Object tab
+7. Select `index.html`. Choose Delete.
+8. In the Delete objects panel, enter delete to confirm that you want to remove this file.
+9. Choose Delete objects
+
+   Notice that the index.html file is listed in the Failed to delete pane.
+
+   ![Screenshot 2024-08-18 161124](https://github.com/user-attachments/assets/e954b1aa-9e57-4827-9394-eaec80113382)
+
+   This confirms that your policy is working and preventing the website's files from being deleted.
+
+Choose Close to return to the Objects tab.
+
+
 
 
 
