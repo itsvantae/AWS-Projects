@@ -27,7 +27,8 @@
 
 9. Choose Create bucket
 
-![screencapture-us-east-1-console-aws-amazon-s3-bucket-create-2024-08-18-15_04_35](https://github.com/user-attachments/assets/ffab1d3e-2a28-4502-9f76-453ca631bf43)
+![screencapture-us-east-1-console-aws-amazon-s3-bucket-create-2024-08-18-15_15_26](https://github.com/user-attachments/assets/350c4805-4058-4538-96bc-5e99ac1e32c9)
+
 
 
 Your S3 bucket is ready, now we'll be configuring our static website on the bucket
