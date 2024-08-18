@@ -26,6 +26,11 @@ This is the architectural diagram for the project
 
 ![Screenshot 2024-08-18 145420](https://github.com/user-attachments/assets/e746719c-e47c-4828-b6e3-01a8ca547195)
 
+# Clean-up
+Login to the **AWS Management Console** and go to **S3** using the search bar. Select the **S3 bucket** used for hosting the website. Click on **Empty** in the top-right corner to remove all objects within the bucket.
+
+After emptying the bucket, choose the **Delete** option in the top-right corner of the S3 bucket page to delete the bucket.
+
 
 
 
