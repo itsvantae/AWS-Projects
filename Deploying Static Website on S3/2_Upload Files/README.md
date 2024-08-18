@@ -10,6 +10,7 @@ In this section, you upload the static files to your bucket.
    ![screencapture-us-east-1-console-aws-amazon-s3-upload-website-112-2024-08-18-15_38_31](https://github.com/user-attachments/assets/8a4597e4-85fe-4c50-a8e8-36d762c8392f)
 
 6. Choose Upload
+   
    Your files are uploaded to the bucket.
    
    Choose Close
