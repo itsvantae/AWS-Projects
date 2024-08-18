@@ -11,8 +11,6 @@ In this section, you upload the static files to your bucket.
 
 6. Choose Upload
    
-   Your files are uploaded to the bucket.
-   
-   Choose Close
+   Your files are uploaded to the bucket. Choose Close
 
 
