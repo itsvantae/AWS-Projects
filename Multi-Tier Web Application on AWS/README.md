@@ -6,6 +6,11 @@ In this project, you will design and implement a multi-tier web application arch
 * Availability: Ensure that the application remains highly available, even in the event of failures in certain components.
 * Security: Secure the application by isolating different layers of the architecture and applying strict security controls.
 
+# Architectural Diagram
+This it the architectural diagram for the project:
+
+![architecture](https://github.com/user-attachments/assets/74340842-c8ad-4c7e-b7fb-be47140166b5)
+
 # Architecture Overview
 The architecture of the multi-tier web application will consist of three main tiers, each serving distinct functions within the application. This approach ensures a separation of concerns, improves scalability, enhances security, and maximizes availability.
 
