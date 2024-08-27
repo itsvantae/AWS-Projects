@@ -31,6 +31,11 @@ Purpose: This tier manages the storage, retrieval, and management of application
 * Amazon CloudWatch: For monitoring and logging.
 * IAM: For managing access permissions and security policies.
 
+# Clean-Up
+Remember to delete your resources (ASG, ALB, DB, NAT Gateway) and release all elastic IPs, so you don’t continue to get charged!
+
+
+
 
 
 
