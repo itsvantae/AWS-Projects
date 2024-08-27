@@ -22,7 +22,7 @@ No need to specify subnets at this stage.
 
 ![now3](https://github.com/user-attachments/assets/8d9fab71-5258-4535-8de1-62af9f4bf990)
 
-Under ‘Advanced details > User data,’ we need to paste in our script that installs an Apache web server and a basic HTML web page. You can view the specific script 
+Under ‘Advanced details > User data,’ we need to paste in our script that installs an Apache web server and a basic HTML web page. You can view the script [here](https://github.com/itsvantae/AWS-Projects/blob/main/Multi-Tier%20Web%20Application%20on%20AWS/Tier%201%3A%20Web%20tier%20(Frontend)/apache-install.sh)
 
 
 
