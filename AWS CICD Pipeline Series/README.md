@@ -39,3 +39,13 @@ This is the architectural diagram for this project
 
 <img width="1259" alt="1eb76746-dbae-4a0f-a1d6-49d0061ddb82" src="https://github.com/user-attachments/assets/847ec042-9b55-4680-947b-6e3b1ae31745">
 
+# Final Result
+I have successfully deployed our web application using a fully automated CICD pipeline. The image below showcases the live application, demonstrating a seamless deployment process that integrates AWS services for scalability and high availability.
+
+![cicd38](https://github.com/user-attachments/assets/1aeff07c-988e-45b5-a599-369e2a4a156a)
+
+This project highlights the power of automation in delivering a production-ready application, ensuring continuous integration and smooth delivery with every update.
+
+
+
+
