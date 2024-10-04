@@ -35,6 +35,7 @@ Creating the CI/CD Pipeline: Set up a CI/CD pipeline using AWS CodePipeline to a
 5. AWS CloudWatch: A monitoring and observability service for AWS resources and applications.
 
 # Architectural Diagram
+This is the architectural diagram for this project
 
 <img width="1259" alt="1eb76746-dbae-4a0f-a1d6-49d0061ddb82" src="https://github.com/user-attachments/assets/847ec042-9b55-4680-947b-6e3b1ae31745">
 
